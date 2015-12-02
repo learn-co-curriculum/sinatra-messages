@@ -18,3 +18,5 @@ We're going to be building a simple messaging system using Sinatra. We'll be wri
 
 There are no tests. Just make it work.
 
+
+<a href='https://learn.co/lessons/sinatra-messages' data-visibility='hidden'>View this lesson on Learn.co</a>
